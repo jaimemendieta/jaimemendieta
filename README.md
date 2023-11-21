@@ -1,22 +1,20 @@
 # Jaime Mendieta - Full Stack Web Developer and Freelancer
 
-Welcome to my GitHub portfolio! I'm Jaime Mendieta, a passionate and dedicated full stack web developer, programmer, and creative freelancer. I specialize in building robust web applications, crafting eye-catching logos, and capturing moments through photography. I'm currently pursuing my bachelor's degree at Weber State University, with an anticipated graduation date in December 2023. I earned my Associate's degree from Weber State University in December 2022.
+Hi! I'm Jaime, a Full Stack Web Developer and Freelancer at Weber State University, graduating in Dec 2023. I love crafting web apps, designing logos, and capturing stories through photography.
 
 ## About Me
 
-I thrive on transforming ideas into tangible digital experiences. My journey into the world of technology began with a curiosity for coding and a passion for design. This diverse skill set allows me to create seamless and visually appealing solutions that cater to both functionality and aesthetics.
+I'm all about turning ideas into digital realities. Coding and design aren't just skills for me; they're passions that drive my creative process.
 
-## Education
+## What Am I Up To Now?
 
-- **Bachelor's Degree:** Weber State University (Anticipated December 2023)
+- Developing a webpage for Bonanza Counseling
 
-- **Associate's Degree:** Weber State University (December 2022)
+## My Journey
 
-## Skills
-
-- **Web Development:** Proficient in creating web applications using a combination of vanilla CSS, Sass, and the MERN (MongoDB, Express.js, React, Node.js) stack.
-- **Logo Design:** Skilled in conceptualizing and designing unique logos that capture the essence of a brand.
-- **Photography:** Experienced in capturing moments and creating visual stories through photography.
+- **Education:**
+-- **Bachelor's Degree** (In Progress): Weber State University
+-- **Associate's Degree**:  Weber State University, Dec 2022
 
 ## Projects
 
