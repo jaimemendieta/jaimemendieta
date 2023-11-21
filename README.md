@@ -22,17 +22,19 @@ I'm all about turning ideas into digital realities. Coding and design aren't jus
 
 ## Projects
 
-### Bonanza Counseling Company
+### Bonanza Counseling
 
-In addition, I'm also working on a comprehensive project for Bonanza, a new counseling company. This endeavor encompasses the development of a modern and user-friendly webpage along with the creation of an engaging logo that mirrors the company's values and mission.
+![Bonanza Web GIF](media/Bonanza.gif)
+
+Responsive website for Bonanza
 
 ### Inner Growth Counseling Advertisement
 
-Currently, I'm working on designing an advertisement for Inner Growth, a counseling company. This project involves a fusion of design aesthetics and effective communication to create an impactful advertisement that resonates with the target audience.
+I worked on designing an advertisement for Inner Growth, a counseling company. This project involves a fusion of design aesthetics and effective communication to create an impactful advertisement that resonates with the target audience.
 
 ## Connect With Me
 
-Feel free to reach out via email at jaimemendieta7@outlook.com or on LinkedIn.
+Feel free to reach out via [email](jaimemendieta7@outlook.com) or on [LinkedIn](https://www.linkedin.com/in/jaimefmendieta/).
 <!--
 **jaimemendieta/jaimemendieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
