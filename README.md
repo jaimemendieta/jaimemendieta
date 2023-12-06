@@ -26,7 +26,7 @@ I'm all about turning ideas into digital realities. Coding and design aren't jus
 
 ![Bonanza Web GIF](media/Bonanza.gif)
 
-Responsive website for [Bonanza](www.bonanzacounseling.com)
+Responsive website for [Bonanza](https://www.bonanzacounseling.com)
 
 ### Inner Growth Counseling Advertisement
 
