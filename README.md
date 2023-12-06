@@ -13,7 +13,7 @@ I'm all about turning ideas into digital realities. Coding and design aren't jus
 ## My Journey
 
 **Education:**
-- **Bachelor's Degree** (In Progress): Weber State University
+- **Bachelor's Degree** (In Progress): Weber State University, Dec 2023
 - **Associate's Degree**:  Weber State University, Dec 2022
 
 **Skills:**
