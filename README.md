@@ -23,6 +23,7 @@ I'm all about turning ideas into digital realities. Coding and design aren't jus
 ## Projects
 ### Bonanza Counseling Services Website
 ![Bonanza Web GIF](media/Bonanza.gif)
+
 Website Link: [Bonanza](https://www.bonanzacounseling.com)
 * **Technology Stack:** Next.js, TypeScript, CSS
 * **Project Overview:** Developed a professional, clean, and engaging website for Bonanza Counseling Services. This project was part of a contract assignment, focusing on creating a user-friendly platform that instills comfort and trust in clients.
