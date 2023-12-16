@@ -21,7 +21,7 @@ I'm all about turning ideas into digital realities. Coding and design aren't jus
 - **Design & Photography**:  Logos, web design, visual storytelling
 
 ## Projects
-###Bonanza Counseling Services Website
+### Bonanza Counseling Services Website
 ![Bonanza Web GIF](media/Bonanza.gif)
 Website Link: [Bonanza](https://www.bonanzacounseling.com)
 * **Technology Stack:** Next.js, TypeScript, CSS
