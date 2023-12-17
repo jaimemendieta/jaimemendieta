@@ -8,7 +8,7 @@ I'm all about turning ideas into digital realities. Coding and design aren't jus
 
 ## What Am I Up To Now?
 
-- Developing a webpage for Bonanza Counseling
+I'm thrilled to announce that I have recently graduated with a Bachelor's of Computer Science from Weber State University. Armed with a solid foundation in computer science principles and hands-on experience from various projects, I am now eagerly stepping into the professional world. Currently, I am actively seeking job opportunities in the field, ready to apply my skills and knowledge to real-world challenges and contribute to innovative solutions in the tech industry.
 
 ## My Journey
 
