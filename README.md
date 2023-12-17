@@ -34,6 +34,8 @@ Website Link: [Bonanza](https://www.bonanzacounseling.com)
 
 
 ### Story Safe: Interactive Story Wiki with Spoiler Control
+![Story Safe Demo](media/Story-Safe.gif)
+
 Website Link: [Story Safe Wiki](https://www.story-safe-wiki.com)
 
 GitHub Repo: [Story Safe Repo](https://github.com/Story-Safe/story-safe-wiki)
@@ -50,6 +52,7 @@ GitHub Repo: [Story Safe Repo](https://github.com/Story-Safe/story-safe-wiki)
 
 
 ### Yelp Scraper to Simplified View
+![Yelp Scraper Demo](media/py-final.gif)
 
 * **Course:** CS 3620 Server-Side Architecture (Final Project)
 * **Technology Stack:** Selenium, Database Management, Web Development Technologies
@@ -62,6 +65,7 @@ GitHub Repo: [Story Safe Repo](https://github.com/Story-Safe/story-safe-wiki)
 
 
 ### Advertisement for Inner Growth Counseling
+![Inner Growth Demo](media/IG-ver-C-2.png)
 
 * **Tools Used:** Adobe XD, Adobe Illustrator, Adobe Photoshop
 * **Project Overview:** This project showcases a blend of creative design and strategic communication to craft a compelling advertisement for Inner Growth Counseling. The focus was on creating an advertisement that not only catches the eye but also meaningfully connects with the intended audience.
