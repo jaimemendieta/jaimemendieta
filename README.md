@@ -32,6 +32,7 @@ Website Link: [Bonanza](https://www.bonanzacounseling.com)
 * **Purpose and Functionality:** The website is strategically designed to attract and retain clients for Bonanza Counseling Services. It features a straightforward portal for client sign-ups and provides comprehensive information about the services offered, ensuring potential clients understand the value and quality of care they will receive.
 * **Key Outcomes:** The project successfully delivers an optimized web experience, contributing to the company's client acquisition and engagement goals.
 
+
 ### Story Safe: Interactive Story Wiki with Spoiler Control
 Website Link: [Story Safe Wiki](https://www.story-safe-wiki.com)
 
@@ -47,9 +48,27 @@ GitHub Repo: [Story Safe Repo](https://github.com/Story-Safe/story-safe-wiki)
    * **User Accounts:** Account creation and login capabilities allow users to save their spoiler settings and preferences, enhancing the personalized experience.
 * **Purpose and Impact:** 'Story Safe' addresses the common issue of unwanted spoilers in online story discussions, providing a safe space for readers and fans to explore and discuss stories at their own pace.
 
-### Inner Growth Counseling Advertisement
 
-I worked on designing an advertisement for Inner Growth, a counseling company. This project involves a fusion of design aesthetics and effective communication to create an impactful advertisement that resonates with the target audience.
+### Yelp Scraper to Simplified View
+
+* **Course:** CS 3620 Server-Side Architecture (Final Project)
+* **Technology Stack:** Selenium, Database Management, Web Development Technologies
+* **Project Overview:** This project involved creating a tool that scrapes data from Yelp, a popular business review website, and then transforms and displays it in a simplified, user-friendly format on a custom web page.
+* **Key Functions:**
+   * **Data Scraping:** Utilized Selenium to effectively navigate and extract data from Yelp, a dynamic website known for its rich and complex content.
+   * **Data Storage:** Implemented robust database management techniques to store the scraped data efficiently.
+   * **Webpage Display:** Developed a webpage that presents the scraped Yelp data in an accessible and streamlined format, enhancing the user experience.
+* **Purpose and Achievement:** The project demonstrates an innovative approach to data presentation, making complex information more digestible for users. It serves as an example of practical application of server-side architecture principles in a real-world context.
+
+
+### Advertisement for Inner Growth Counseling
+
+* **Tools Used:** Adobe XD, Adobe Illustrator, Adobe Photoshop
+* **Project Overview:** This project showcases a blend of creative design and strategic communication to craft a compelling advertisement for Inner Growth Counseling. The focus was on creating an advertisement that not only catches the eye but also meaningfully connects with the intended audience.
+* **Design and Creativity:** Leveraged the advanced features of Adobe XD, Illustrator, and Photoshop to create a visually appealing and emotionally resonant advertisement. The design process involved careful consideration of color schemes, typography, imagery, and layout to convey the core values and services of Inner Growth Counseling.
+* **Communication Strategy:** Emphasized on delivering a clear, persuasive message that highlights the benefits and unique aspects of Inner Growth Counseling. The advertisement was tailored to appeal to potential clients seeking personal growth and mental well-being.
+* **Objective and Impact:** The goal was to create an advertisement that not only stands out in a crowded market but also effectively communicates the compassionate and professional nature of Inner Growth Counseling’s services. This project demonstrates a harmonious fusion of artistic design and purposeful messaging in the realm of advertising.
+
 
 ## Connect With Me
 
