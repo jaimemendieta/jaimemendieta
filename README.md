@@ -1,6 +1,6 @@
 # Jaime Mendieta - Full Stack Web Developer and Freelancer
 
-Hi! I'm Jaime, a Full Stack Web Developer and Freelancer at Weber State University, graduating in Dec 2023. I love crafting web apps, designing logos, and capturing stories through photography.
+Hi! I'm Jaime, a Full Stack Web Developer and Software Engineer at Weber State University, graduated in 2023. I love crafting web apps, designing logos, and capturing stories through photography.
 
 ## About Me
 
@@ -32,6 +32,27 @@ Website Link: [Bonanza](https://www.bonanzacounseling.com)
 * **Purpose and Functionality:** The website is strategically designed to attract and retain clients for Bonanza Counseling Services. It features a straightforward portal for client sign-ups and provides comprehensive information about the services offered, ensuring potential clients understand the value and quality of care they will receive.
 * **Key Outcomes:** The project successfully delivers an optimized web experience, contributing to the company's client acquisition and engagement goals.
 
+---
+
+### Next-i18n-Starter
+![Next-i18n-Starter GIF](media/next-i18n-starter.gif)
+
+**Description**: Next-i18n-Starter is a Next.js template designed for creating multilingual websites. It seamlessly integrates internationalization (i18n) with automatic locale detection, a manual language switcher, and EU cookie law compliance, making it an ideal foundation for global web applications.
+
+**Key Features**:
+- **Bilingual Support**: Pre-configured for English and Spanish, with easy adaptation for additional languages.
+- **Automatic Locale Detection**: Auto-routes users based on browser language settings.
+- **Manual Language Switching**: Allows users to manually select their preferred language.
+- **EU Cookie Compliance**: Implements a cookie consent mechanism for EU law adherence.
+- **Flexible and Extendable**: Designed to be easily customizable for various multilingual needs.
+
+**Technologies Used**: Next.js, TypeScript, ESLint, Tailwind CSS, i18n.
+
+**Impact**: This project demonstrates my capabilities in building accessible, internationalized web applications. It reflects my understanding of user experience, legal compliance in web development, and scalable project structure.
+
+**GitHub Repository**: [Next-i18n-Starter](https://github.com/jaimemendieta/Next-i18n-Starter)
+
+---
 
 ### Story Safe: Interactive Story Wiki with Spoiler Control
 ![Story Safe Demo](media/Story-Safe.gif)
@@ -50,6 +71,7 @@ GitHub Repo: [Story Safe Repo](https://github.com/Story-Safe/story-safe-wiki)
    * **User Accounts:** Account creation and login capabilities allow users to save their spoiler settings and preferences, enhancing the personalized experience.
 * **Purpose and Impact:** 'Story Safe' addresses the common issue of unwanted spoilers in online story discussions, providing a safe space for readers and fans to explore and discuss stories at their own pace.
 
+---
 
 ### Yelp Scraper to Simplified View
 ![Yelp Scraper Demo](media/py-final.gif)
@@ -62,17 +84,6 @@ GitHub Repo: [Story Safe Repo](https://github.com/Story-Safe/story-safe-wiki)
    * **Data Storage:** Implemented robust database management techniques to store the scraped data efficiently.
    * **Webpage Display:** Developed a webpage that presents the scraped Yelp data in an accessible and streamlined format, enhancing the user experience.
 * **Purpose and Achievement:** The project demonstrates an innovative approach to data presentation, making complex information more digestible for users. It serves as an example of practical application of server-side architecture principles in a real-world context.
-
-
-### Advertisement for Inner Growth Counseling
-![Inner Growth Demo](media/IG-ver-C-2.png)
-
-* **Tools Used:** Adobe XD, Adobe Illustrator, Adobe Photoshop
-* **Project Overview:** This project showcases a blend of creative design and strategic communication to craft a compelling advertisement for Inner Growth Counseling. The focus was on creating an advertisement that not only catches the eye but also meaningfully connects with the intended audience.
-* **Design and Creativity:** Leveraged the advanced features of Adobe XD, Illustrator, and Photoshop to create a visually appealing and emotionally resonant advertisement. The design process involved careful consideration of color schemes, typography, imagery, and layout to convey the core values and services of Inner Growth Counseling.
-* **Communication Strategy:** Emphasized on delivering a clear, persuasive message that highlights the benefits and unique aspects of Inner Growth Counseling. The advertisement was tailored to appeal to potential clients seeking personal growth and mental well-being.
-* **Objective and Impact:** The goal was to create an advertisement that not only stands out in a crowded market but also effectively communicates the compassionate and professional nature of Inner Growth Counseling’s services. This project demonstrates a harmonious fusion of artistic design and purposeful messaging in the realm of advertising.
-
 
 ## Connect With Me
 
