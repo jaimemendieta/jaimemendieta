@@ -1,4 +1,4 @@
-# Jaime Mendieta - Full Stack Web Developer and Freelancer
+# Jaime Mendieta - Full Stack Web Developer
 
 Hi! I'm Jaime, a Full Stack Web Developer and Software Engineer at Weber State University, graduated in 2023. I love crafting web apps, designing logos, and capturing stories through photography.
 
